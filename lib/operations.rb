@@ -6,4 +6,4 @@ def unsafe?(speed)
 
 
 def not_safe?(speed)
-(60)< ? "true" : (60)> "false"
+(60)< ?"true" :(60)> "false"
